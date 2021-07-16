@@ -1,0 +1,17 @@
+# Removing node modules
+node_modules
+
+# Removing configuration file
+config
+
+# Removing playground
+playground
+
+# Removing all the back up files
+**/*_backup_*.js
+mongodb_bckup
+mongoose_bckup
+src/*_bckup_*.js
+src/emails/*_bckup*.js
+src/models/*_bckup_*.js
+src/routers/*_bckup_*.js
